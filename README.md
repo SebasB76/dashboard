@@ -40,4 +40,4 @@ npm run dev
 npm run deploy
 ```
 
-Sitio publicado en: https://mateoandraded.github.io/dashboard
+Sitio publicado en: https://sebasb76.github.io/dashboard
